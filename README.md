@@ -1,4 +1,4 @@
-# Voight---Kampff_Tset
+# Voight---Kampff_Test
 Boxing match music performance for four Neural Nets
 
 https://patabots.bandcamp.com/album/the-voight-kampff-test
